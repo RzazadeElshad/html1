@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.square{
+    list-style-type: square;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+li{
+    font-size: 23px;}
+.df{
+    font-size: 36px;
+}
+body{
+    border: 5px solid black;
+}
+.yu{
+    background-color: yellow;
+}
