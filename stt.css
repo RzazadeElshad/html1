@@ -2,9 +2,11 @@ body {
     background-color: powderblue;
   }
   div {
-   width: 50%;
-   height: 20%;
    background-color: rgb(175, 160, 160);
    color: red;
    font-size: 50px;
+   text-align: center;
+  }
+  h1{
+    text-align: center;
   }
